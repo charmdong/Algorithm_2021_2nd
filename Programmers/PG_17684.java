@@ -1,6 +1,8 @@
+package Programmers;
+
 import java.util.*;
 
-class Solution {
+public class PG_17684 {
     
     public static Map<String, Integer> dict = new HashMap<>();
     public static int dictIndex = 26;

@@ -1,3 +1,5 @@
+package Test;
+
 import java.util.Arrays;
 
 public class KKB_03 {
